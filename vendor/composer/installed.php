@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '2c5dd4c5d8306cf4e2f6440a13f02e05d5160bc1',
         'name' => 'admin/monolog_php',
         'dev' => true,
     ),
     'versions' => array(
         'admin/monolog_php' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '2c5dd4c5d8306cf4e2f6440a13f02e05d5160bc1',
             'dev_requirement' => false,
         ),
         'fig/http-message-util' => array(
@@ -38,12 +38,12 @@
             'dev_requirement' => false,
         ),
         'monolog/monolog' => array(
-            'pretty_version' => '3.4.0',
-            'version' => '3.4.0.0',
+            'pretty_version' => '3.5.0',
+            'version' => '3.5.0.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../monolog/monolog',
             'aliases' => array(),
-            'reference' => 'e2392369686d420ca32df3803de28b5d6f76867d',
+            'reference' => 'c915e2634718dbc8a4a15c61b0e62e7a44e14448',
             'dev_requirement' => false,
         ),
         'nikic/fast-route' => array(
